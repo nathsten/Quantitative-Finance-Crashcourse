@@ -32,6 +32,8 @@ Crash course in quantitative finance for the analysis group of Fintech Enigma.
 
     We will also take a look into using various call-options to create a hedging portfolio to hedge against directional risk as well as volatility risk. 
 
+    Use stock spesific models to perform informed simulations on a portfolio. 
+
 - Benchmark regression. 
 
     - Using OLS we will look at how to use regression on indicators to make a benchmark model of which signals to look for in a risk adjusted portfolio. 
